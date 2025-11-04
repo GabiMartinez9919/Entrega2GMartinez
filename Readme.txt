@@ -30,6 +30,11 @@ integrando funciones, procedimientos almacenados, vistas y triggers que garantiz
 4. Validar que las consultas `CALL` y `SELECT` del PDF devuelvan resultados correctos.
 
 ---
+## 📎 Entrega adicional
+Este repositorio también incluye la "Entrega 1", según lo solicitado en la clase del martes 28 de marzo,  
+para mantener la trazabilidad completa del proyecto desde su primera versión hasta la entrega final.
 
+---
 👤 Autor
 Gabriel Alejandro Martínez  
+
