@@ -1,17 +1,17 @@
-# Proyecto Final SQL – Coderhouse
-**Alumno:** Gabriel A. Martínez  
-**Curso:** SQL Coderhouse (2025)
+# Entrega 2 SQL – Coderhouse
+Alumno: Gabriel A. Martínez  
+Curso: SQL Coderhouse (2025)
 
 ---
 
-## 📘 Descripción
+📘 Descripción
 Proyecto relacional desarrollado como entrega final para el curso de SQL en Coderhouse.  
-La base de datos **IdeaMartinez** gestiona clientes, productos, pedidos, facturas y pagos,  
+La base de datos "IdeaMartinez" gestiona clientes, productos, pedidos, facturas y pagos,  
 integrando funciones, procedimientos almacenados, vistas y triggers que garantizan la consistencia de los datos.
 
 ---
 
-## 📂 Archivos incluidos
+📂 Archivos incluidos
 
 | Archivo | Contenido |
 |----------|------------|
@@ -22,7 +22,7 @@ integrando funciones, procedimientos almacenados, vistas y triggers que garantiz
 
 ---
 
-## ⚙️ Instrucciones de ejecución
+⚙️ Instrucciones de ejecución
 
 1. Ejecutar `01_schema_idea_martinez.sql` → crea la base de datos y las tablas.  
 2. Ejecutar `02_objects_idea_martinez.sql` → agrega vistas, funciones, SP y triggers.  
@@ -31,13 +31,5 @@ integrando funciones, procedimientos almacenados, vistas y triggers que garantiz
 
 ---
 
-## 🧠 Tecnologías utilizadas
-- **MySQL Workbench 8.x**  
-- **Charset:** `utf8mb4_general_ci`  
-- **Motor de base de datos:** InnoDB  
-
----
-
-## 👤 Autor
-**Gabriel Alejandro Martínez**  
-Proyecto final – Curso SQL – Coderhouse (2025)
+👤 Autor
+Gabriel Alejandro Martínez  
