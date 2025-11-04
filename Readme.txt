@@ -15,10 +15,10 @@ integrando funciones, procedimientos almacenados, vistas y triggers que garantiz
 
 | Archivo | Contenido |
 |----------|------------|
-| `01_schema_idea_martinez.sql` | Estructura y claves foráneas de la base de datos. |
-| `02_objects_idea_martinez.sql` | Funciones, vistas, procedimientos almacenados y triggers. |
-| `03_seed_idea_martinez.sql` | Inserciones de datos y validaciones finales. |
-| `IdeaMartinez_SQL_Entrega_Final_Correcto.pdf` | Documentación completa del proyecto. |
+ Estructura y claves foráneas de la base de datos.
+ Funciones, vistas, procedimientos almacenados y triggers.
+ Inserciones de datos y validaciones finales.
+"Entrega2_Martinez.pdf" Documentación completa del proyecto
 
 ---
 
@@ -37,4 +37,5 @@ para mantener la trazabilidad completa del proyecto desde su primera versión ha
 ---
 👤 Autor
 Gabriel Alejandro Martínez  
+
 
